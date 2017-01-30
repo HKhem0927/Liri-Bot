@@ -1,0 +1,314 @@
+node liri.js 
+node liri.js 
+node liri.js 
+@biggiehnj: Hi everyone
+Sat Jan 28 01:42:31 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9
+Sat Jan 28 01:15:22 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hi everyone
+Sat Jan 28 01:42:31 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9
+Sat Jan 28 01:15:22 +0000 2017
+------- End Tweet -------
+
+Artist: Calvin Harris
+Track Name: My Way
+Album: My Way
+Preview Link: https://p.scdn.co/mp3-preview/33060c2bf30b7b5f6db0d539cdac800e93b0c49d?cid=null
+
+@biggiehnj: My favorite team is the Philadelphia Phillies
+Sat Jan 28 01:57:17 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hope everyone is having a good year so far
+Sat Jan 28 01:57:02 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hi everyone
+Sat Jan 28 01:42:31 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9
+Sat Jan 28 01:15:22 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: My favorite team is the Philadelphia Phillies
+Sat Jan 28 01:57:17 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hope everyone is having a good year so far
+Sat Jan 28 01:57:02 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hi everyone
+Sat Jan 28 01:42:31 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9
+Sat Jan 28 01:15:22 +0000 2017
+------- End Tweet -------
+
+Artist: Martin Garrix
+Track Name: In the Name of Love
+Album: In the Name of Love
+Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=null
+
+@biggiehnj: My favorite team is the Philadelphia Phillies
+Sat Jan 28 01:57:17 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9
+Sat Jan 28 01:15:22 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hope everyone is having a good year so far
+Sat Jan 28 01:57:02 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hi everyone
+Sat Jan 28 01:42:31 +0000 2017
+------- End Tweet -------
+
+node liri.js twitter
+node liri.js twitter
+@biggiehnj: My favorite team is the Philadelphia Phillies
+Sat Jan 28 01:57:17 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hope everyone is having a good year so far
+Sat Jan 28 01:57:02 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hi everyone
+Sat Jan 28 01:42:31 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9
+Sat Jan 28 01:15:22 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: My favorite team is the Philadelphia Phillies
+Sat Jan 28 01:57:17 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hope everyone is having a good year so far
+Sat Jan 28 01:57:02 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hi everyone
+Sat Jan 28 01:42:31 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9
+Sat Jan 28 01:15:22 +0000 2017
+------- End Tweet -------
+
+Title: Titanic
+Year: 1997
+Country: USA
+Language: English
+Rated: PG-13
+Released: 19 Dec 1997
+Genre: Drama, Romance
+Director: James Cameron
+Writer: James Cameron
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+IMDB Rating: 7.7
+Rotten Tomatoes Rating: 8.0
+Rotten Tomato URL: http://www.rottentomatoes.com/m/titanic/
+
+@biggiehnj: My favorite team is the Philadelphia Phillies
+Sat Jan 28 01:57:17 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hope everyone is having a good year so far
+Sat Jan 28 01:57:02 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: Hi everyone
+Sat Jan 28 01:42:31 +0000 2017
+------- End Tweet -------
+
+@biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9
+Sat Jan 28 01:15:22 +0000 2017
+------- End Tweet -------
+
+[
+	"Sat Jan 28 01:57:17 +0000 2017 My favorite team is the Philadelphia Phillies, "
+][
+	"Sat Jan 28 01:57:02 +0000 2017 Hope everyone is having a good year so far, "
+][
+	"Sat Jan 28 01:42:31 +0000 2017 Hi everyone, "
+][
+	"Sat Jan 28 01:15:22 +0000 2017 RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9, "
+]{
+	"Artists": "Guns N' Roses",
+	"songName": "Welcome To The Jungle",
+	"previewLink": "https://p.scdn.co/mp3-preview/f31668bbbc508341380d822dc6740ccfc83644d5?cid=null",
+	"Album": "Appetite For Destruction"
+}{
+	"Artists": "Guns N' Roses",
+	"songName": "Welcome To The Jungle",
+	"previewLink": "https://p.scdn.co/mp3-preview/f31668bbbc508341380d822dc6740ccfc83644d5?cid=null",
+	"Album": "Appetite For Destruction"
+}{
+	"Artists": "Flo Rida",
+	"songName": "GDFR (feat. Sage The Gemini & Lookas)",
+	"previewLink": "https://p.scdn.co/mp3-preview/e424ece477e0c6d934a7e581ba25bb4d333038bb?cid=null",
+	"Album": "GDFR (feat. Sage The Gemini & Lookas)"
+}{
+	"Artists": "Calvin Harris",
+	"songName": "My Way",
+	"previewLink": "https://p.scdn.co/mp3-preview/33060c2bf30b7b5f6db0d539cdac800e93b0c49d?cid=null",
+	"Album": "My Way"
+}{
+	"Artists": "DJ Snake",
+	"songName": "Let Me Love You",
+	"previewLink": "https://p.scdn.co/mp3-preview/86f2c7ebe49bf7da094b7f1e418dd3b12e2051c1?cid=null",
+	"Album": "Encore"
+}{
+	"Title": "Titanic",
+	"Year": "1997",
+	"ImdbRating": "7.7",
+	"Country": "USA",
+	"Language": "English",
+	"Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+	"Actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+	"rottenTomatoesRating": "8.0",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/titanic/"
+}[
+	"Sat Jan 28 01:57:17 +0000 2017 My favorite team is the Philadelphia Phillies, "
+][
+	"Sat Jan 28 01:15:22 +0000 2017 RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9, "
+][
+	"Sat Jan 28 01:57:02 +0000 2017 Hope everyone is having a good year so far, "
+][
+	"Sat Jan 28 01:42:31 +0000 2017 Hi everyone, "
+]{
+	"Artists": "blink-182",
+	"songName": "What's My Age Again?",
+	"previewLink": "https://p.scdn.co/mp3-preview/51b3254f8c1f6d0d8839227f37e82a1a62a27260?cid=null",
+	"Album": "Enema Of The State"
+}{
+	"Artists": "blink-182",
+	"songName": "What's My Age Again?",
+	"previewLink": "https://p.scdn.co/mp3-preview/51b3254f8c1f6d0d8839227f37e82a1a62a27260?cid=null",
+	"Album": "Enema Of The State"
+}{
+	"Artists": "Backstreet Boys",
+	"songName": "I Want It That Way",
+	"previewLink": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null",
+	"Album": "The Hits--Chapter One"
+}{
+	"Artists": "Backstreet Boys",
+	"songName": "I Want It That Way",
+	"previewLink": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null",
+	"Album": "The Hits--Chapter One"
+}[
+	"Mon Jan 30 00:02:51 +0000 2017 RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio., "
+][
+	"Sun Jan 29 23:58:30 +0000 2017 RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und…, "
+][
+	"Sun Jan 29 23:58:19 +0000 2017 RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o…, "
+][
+	"Sun Jan 29 23:59:00 +0000 2017 RT @ryanflorence: For me, it's about worrying about the right \"lines\" to draw in your app, then fill the few shapes those lines create with…, "
+][
+	"Sun Jan 29 23:59:34 +0000 2017 RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a \"cool\" FP culture inste…, "
+][
+	"Sun Jan 29 23:58:09 +0000 2017 RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi…, "
+][
+	"Sun Jan 29 23:57:16 +0000 2017 RT @tylermcginnis33: Your code is not your identity., "
+][
+	"Sun Jan 29 23:56:36 +0000 2017 RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. \"🤔 Something is off.\" -&gt; \"…, "
+][
+	"Sun Jan 29 23:57:13 +0000 2017 RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning., "
+][
+	"Sun Jan 29 23:55:03 +0000 2017 RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war., "
+][
+	"Sun Jan 29 23:52:38 +0000 2017 RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a…, "
+][
+	"Sun Jan 29 23:51:47 +0000 2017 RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R, "
+][
+	"Sun Jan 29 23:50:43 +0000 2017 RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ…, "
+][
+	"Sun Jan 29 23:24:49 +0000 2017 RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j…, "
+][
+	"Sun Jan 29 23:52:50 +0000 2017 RT @vyedin: There is no such thing as a \"self-made man\" https://t.co/HWgubiicxV, "
+][
+	"Sun Jan 29 23:23:52 +0000 2017 RT @toddmotto: \"Real developers\" just write code and enjoy it., "
+][
+	"Sat Jan 28 01:42:31 +0000 2017 Hi everyone, "
+][
+	"Sat Jan 28 01:57:17 +0000 2017 My favorite team is the Philadelphia Phillies, "
+][
+	"Sat Jan 28 01:57:02 +0000 2017 Hope everyone is having a good year so far, "
+][
+	"Sat Jan 28 01:15:22 +0000 2017 RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9, "
+]{
+	"Artists": "Backstreet Boys",
+	"songName": "I Want It That Way",
+	"previewLink": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null",
+	"Album": "The Hits--Chapter One"
+}{
+	"Artists": "San Holo",
+	"songName": "Light",
+	"previewLink": "https://p.scdn.co/mp3-preview/709d4fbe62e1a3ed3ce248890eec16df5b35ae2a?cid=null",
+	"Album": "Light"
+}{
+	"Artists": "Dj Handclap",
+	"songName": "I Can Make Your Hands Clap",
+	"previewLink": "https://p.scdn.co/mp3-preview/0df1b8c673c986ec18a8e387f266d19c06afcb38?cid=null",
+	"Album": "I Can Make Your Hands Clap"
+}{
+	"Artists": "A Boogie Wit da Hoodie",
+	"songName": "Timeless (DJ SPINKING)",
+	"previewLink": "https://p.scdn.co/mp3-preview/68b35d79b3731d2457ffbe164f3dae6eb44911f1?cid=null",
+	"Album": "TBA"
+}{
+	"Artists": "Ariana Grande",
+	"songName": "Into You",
+	"previewLink": "https://p.scdn.co/mp3-preview/e9d2ba54d985aea3b4d168fdcb3450ae720240e9?cid=null",
+	"Album": "Dangerous Woman"
+}{
+	"Artists": "Cheat Codes",
+	"songName": "Let Me Hold You (Turn Me On)",
+	"previewLink": "https://p.scdn.co/mp3-preview/3d7bec712c6592b98b83ad30ea5036ad712ab1e4?cid=null",
+	"Album": "Let Me Hold You (Turn Me On)"
+}{
+	"Artists": "Cheat Codes",
+	"songName": "Let Me Hold You (Turn Me On)",
+	"previewLink": "https://p.scdn.co/mp3-preview/3d7bec712c6592b98b83ad30ea5036ad712ab1e4?cid=null",
+	"Album": "Let Me Hold You (Turn Me On)"
+}{
+	"Artists": "Red Rat",
+	"songName": "Higher",
+	"previewLink": "https://p.scdn.co/mp3-preview/20d67b7b88bb2937bde97ae49e6a30083cc9b089?cid=null",
+	"Album": "Higher"
+}{
+	"Artists": "Derek Conyer",
+	"songName": "Bootylicous",
+	"previewLink": "https://p.scdn.co/mp3-preview/707e555164953a3f2ba802486dd7ce759df01a59?cid=null",
+	"Album": "Players & Hustlers"
+}{
+	"Artists": "Destiny's Child",
+	"songName": "Bootylicious",
+	"previewLink": "https://p.scdn.co/mp3-preview/744f405691f6a13bc60ebce53b10c0cf68d8ded2?cid=null",
+	"Album": "Survivor"
+}{
+	"Title": "Lion",
+	"Year": "2016",
+	"ImdbRating": "8.0",
+	"Country": "Australia, USA",
+	"Language": "English, Bengali, Hindi",
+	"Plot": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
+	"Actors": "Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki",
+	"rottenTomatoesRating": "N/A",
+	"rottenTomatoesUrl": "N/A"
+}
