@@ -311,4 +311,591 @@ Sat Jan 28 01:15:22 +0000 2017
 	"Actors": "Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki",
 	"rottenTomatoesRating": "N/A",
 	"rottenTomatoesUrl": "N/A"
-}
+}[
+	"Mon Jan 30 00:02:51 +0000 2017 RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio., "
+][
+	"Sun Jan 29 23:59:34 +0000 2017 RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a \"cool\" FP culture inste…, "
+][
+	"Sun Jan 29 23:58:19 +0000 2017 RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o…, "
+][
+	"Sun Jan 29 23:58:30 +0000 2017 RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und…, "
+][
+	"Sun Jan 29 23:58:09 +0000 2017 RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi…, "
+][
+	"Sun Jan 29 23:57:16 +0000 2017 RT @tylermcginnis33: Your code is not your identity., "
+][
+	"Sun Jan 29 23:56:36 +0000 2017 RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. \"🤔 Something is off.\" -&gt; \"…, "
+][
+	"Sun Jan 29 23:55:03 +0000 2017 RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war., "
+][
+	"Sun Jan 29 23:59:00 +0000 2017 RT @ryanflorence: For me, it's about worrying about the right \"lines\" to draw in your app, then fill the few shapes those lines create with…, "
+][
+	"Sun Jan 29 23:52:38 +0000 2017 RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a…, "
+][
+	"Sun Jan 29 23:51:47 +0000 2017 RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R, "
+][
+	"Sun Jan 29 23:50:43 +0000 2017 RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ…, "
+][
+	"Sun Jan 29 23:57:13 +0000 2017 RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning., "
+][
+	"Sun Jan 29 23:24:49 +0000 2017 RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j…, "
+][
+	"Sat Jan 28 01:57:17 +0000 2017 My favorite team is the Philadelphia Phillies, "
+][
+	"Sun Jan 29 23:23:52 +0000 2017 RT @toddmotto: \"Real developers\" just write code and enjoy it., "
+][
+	"Sat Jan 28 01:15:22 +0000 2017 RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9, "
+][
+	"Sat Jan 28 01:42:31 +0000 2017 Hi everyone, "
+][
+	"Sat Jan 28 01:57:02 +0000 2017 Hope everyone is having a good year so far, "
+][
+	"Mon Jan 30 00:02:51 +0000 2017 RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio., "
+][
+	"Sun Jan 29 23:59:34 +0000 2017 RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a \"cool\" FP culture inste…, "
+][
+	"Sun Jan 29 23:58:30 +0000 2017 RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und…, "
+][
+	"Sun Jan 29 23:59:00 +0000 2017 RT @ryanflorence: For me, it's about worrying about the right \"lines\" to draw in your app, then fill the few shapes those lines create with…, "
+][
+	"Sun Jan 29 23:58:19 +0000 2017 RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o…, "
+][
+	"Sun Jan 29 23:58:09 +0000 2017 RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi…, "
+][
+	"Sun Jan 29 23:57:16 +0000 2017 RT @tylermcginnis33: Your code is not your identity., "
+][
+	"Sun Jan 29 23:57:13 +0000 2017 RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning., "
+][
+	"Sun Jan 29 23:56:36 +0000 2017 RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. \"🤔 Something is off.\" -&gt; \"…, "
+][
+	"Sun Jan 29 23:52:38 +0000 2017 RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a…, "
+][
+	"Sun Jan 29 23:50:43 +0000 2017 RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ…, "
+][
+	"Sun Jan 29 23:51:47 +0000 2017 RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R, "
+][
+	"Sun Jan 29 23:55:03 +0000 2017 RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war., "
+][
+	"Sun Jan 29 23:24:49 +0000 2017 RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j…, "
+][
+	"Sat Jan 28 01:57:02 +0000 2017 Hope everyone is having a good year so far, "
+][
+	"Sat Jan 28 01:57:17 +0000 2017 My favorite team is the Philadelphia Phillies, "
+][
+	"Sun Jan 29 23:23:52 +0000 2017 RT @toddmotto: \"Real developers\" just write code and enjoy it., "
+][
+	"Sat Jan 28 01:42:31 +0000 2017 Hi everyone, "
+][
+	"Sat Jan 28 01:15:22 +0000 2017 RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9, "
+][
+	"Mon Jan 30 00:02:51 +0000 2017 RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio., "
+][
+	"Sun Jan 29 23:59:34 +0000 2017 RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a \"cool\" FP culture inste…, "
+][
+	"Sun Jan 29 23:59:00 +0000 2017 RT @ryanflorence: For me, it's about worrying about the right \"lines\" to draw in your app, then fill the few shapes those lines create with…, "
+][
+	"Sun Jan 29 23:58:30 +0000 2017 RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und…, "
+][
+	"Sun Jan 29 23:58:19 +0000 2017 RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o…, "
+][
+	"Sun Jan 29 23:58:09 +0000 2017 RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi…, "
+][
+	"Sun Jan 29 23:57:16 +0000 2017 RT @tylermcginnis33: Your code is not your identity., "
+][
+	"Sun Jan 29 23:57:13 +0000 2017 RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning., "
+][
+	"Sun Jan 29 23:56:36 +0000 2017 RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. \"🤔 Something is off.\" -&gt; \"…, "
+][
+	"Sun Jan 29 23:55:03 +0000 2017 RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war., "
+][
+	"Sun Jan 29 23:52:38 +0000 2017 RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a…, "
+][
+	"Sun Jan 29 23:51:47 +0000 2017 RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R, "
+][
+	"Sun Jan 29 23:50:43 +0000 2017 RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ…, "
+][
+	"Sun Jan 29 23:24:49 +0000 2017 RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j…, "
+][
+	"Sun Jan 29 23:23:52 +0000 2017 RT @toddmotto: \"Real developers\" just write code and enjoy it., "
+][
+	"Sat Jan 28 01:57:17 +0000 2017 My favorite team is the Philadelphia Phillies, "
+][
+	"Sat Jan 28 01:57:02 +0000 2017 Hope everyone is having a good year so far, "
+][
+	"Sat Jan 28 01:42:31 +0000 2017 Hi everyone, "
+][
+	"Sat Jan 28 01:15:22 +0000 2017 RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9, "
+]{
+	"Artists": "Calvin Harris",
+	"songName": "My Way",
+	"previewLink": "https://p.scdn.co/mp3-preview/33060c2bf30b7b5f6db0d539cdac800e93b0c49d?cid=null",
+	"Album": "My Way"
+}{
+	"Artists": "Cheat Codes",
+	"songName": "Let Me Hold You (Turn Me On)",
+	"previewLink": "https://p.scdn.co/mp3-preview/3d7bec712c6592b98b83ad30ea5036ad712ab1e4?cid=null",
+	"Album": "Let Me Hold You (Turn Me On)"
+}{
+	"Artists": "Jason Aldean",
+	"songName": "Burnin' It Down",
+	"previewLink": "https://p.scdn.co/mp3-preview/0977f81fdbd6a8684dcf709b7ffeb7e3fd123868?cid=null",
+	"Album": "Old Boots, New Dirt"
+}{
+	"Artists": "The Chainsmokers",
+	"songName": "All We Know",
+	"previewLink": "https://p.scdn.co/mp3-preview/179c414697a1599fbda0e8a1ba8c3f8764adeb34?cid=null",
+	"Album": "All We Know"
+}{
+	"Artists": "Ludovico Einaudi",
+	"songName": "Nuvole bianche",
+	"previewLink": "https://p.scdn.co/mp3-preview/421e1d6b1514982e078a9dc36b04e87284227402?cid=null",
+	"Album": "Una Mattina"
+}{
+	"Title": "The Shawshank Redemption",
+	"Year": "1994",
+	"ImdbRating": "9.3",
+	"Country": "USA",
+	"Language": "English",
+	"Plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+	"Actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+	"rottenTomatoesRating": "8.2",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/shawshank_redemption/"
+}{
+	"Title": "The Avengers",
+	"Year": "2012",
+	"ImdbRating": "8.1",
+	"Country": "USA",
+	"Language": "English, Russian",
+	"Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+	"Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+	"rottenTomatoesRating": "8.0",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/marvels_the_avengers/"
+}{
+	"Title": "Guardians",
+	"Year": "2009",
+	"ImdbRating": "2.9",
+	"Country": "USA",
+	"Language": "English",
+	"Plot": "Twilight Cove, a small forgotten town, is besieged by hideous creatures summoned into our dimension. It's only a matter of time before the army of creatures attacks the rest of civilization...",
+	"Actors": "Chris Bell, Benjamin Budd, Tylan Canady, Eric Cherney",
+	"rottenTomatoesRating": "N/A",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/guardians_2009/"
+}{
+	"Artists": "Backstreet Boys",
+	"songName": "I Want It That Way",
+	"previewLink": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null",
+	"Album": "The Hits--Chapter One"
+}[
+	"Mon Jan 30 00:02:51 +0000 2017 RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio., "
+][
+	"Sun Jan 29 23:58:30 +0000 2017 RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und…, "
+][
+	"Sun Jan 29 23:58:19 +0000 2017 RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o…, "
+][
+	"Sun Jan 29 23:59:00 +0000 2017 RT @ryanflorence: For me, it's about worrying about the right \"lines\" to draw in your app, then fill the few shapes those lines create with…, "
+][
+	"Sun Jan 29 23:59:34 +0000 2017 RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a \"cool\" FP culture inste…, "
+][
+	"Sun Jan 29 23:58:09 +0000 2017 RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi…, "
+][
+	"Sun Jan 29 23:57:16 +0000 2017 RT @tylermcginnis33: Your code is not your identity., "
+][
+	"Sun Jan 29 23:56:36 +0000 2017 RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. \"🤔 Something is off.\" -&gt; \"…, "
+][
+	"Sun Jan 29 23:55:03 +0000 2017 RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war., "
+][
+	"Sun Jan 29 23:52:38 +0000 2017 RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a…, "
+][
+	"Sun Jan 29 23:57:13 +0000 2017 RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning., "
+][
+	"Sun Jan 29 23:50:43 +0000 2017 RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ…, "
+][
+	"Sun Jan 29 23:23:52 +0000 2017 RT @toddmotto: \"Real developers\" just write code and enjoy it., "
+][
+	"Sun Jan 29 23:24:49 +0000 2017 RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j…, "
+][
+	"Sat Jan 28 01:57:17 +0000 2017 My favorite team is the Philadelphia Phillies, "
+][
+	"Sun Jan 29 23:51:47 +0000 2017 RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R, "
+][
+	"Sat Jan 28 01:42:31 +0000 2017 Hi everyone, "
+][
+	"Sat Jan 28 01:57:02 +0000 2017 Hope everyone is having a good year so far, "
+][
+	"Sat Jan 28 01:15:22 +0000 2017 RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9, "
+][
+	"Mon Jan 30 00:02:51 +0000 2017 RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio., "
+][
+	"Sun Jan 29 23:58:30 +0000 2017 RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und…, "
+][
+	"Sun Jan 29 23:59:00 +0000 2017 RT @ryanflorence: For me, it's about worrying about the right \"lines\" to draw in your app, then fill the few shapes those lines create with…, "
+][
+	"Sun Jan 29 23:59:34 +0000 2017 RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a \"cool\" FP culture inste…, "
+][
+	"Sun Jan 29 23:58:09 +0000 2017 RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi…, "
+][
+	"Sun Jan 29 23:58:19 +0000 2017 RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o…, "
+][
+	"Sun Jan 29 23:57:16 +0000 2017 RT @tylermcginnis33: Your code is not your identity., "
+][
+	"Sun Jan 29 23:56:36 +0000 2017 RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. \"🤔 Something is off.\" -&gt; \"…, "
+][
+	"Sun Jan 29 23:55:03 +0000 2017 RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war., "
+][
+	"Sun Jan 29 23:57:13 +0000 2017 RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning., "
+][
+	"Sun Jan 29 23:52:38 +0000 2017 RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a…, "
+][
+	"Sun Jan 29 23:51:47 +0000 2017 RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R, "
+][
+	"Sun Jan 29 23:50:43 +0000 2017 RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ…, "
+][
+	"Sun Jan 29 23:23:52 +0000 2017 RT @toddmotto: \"Real developers\" just write code and enjoy it., "
+][
+	"Sun Jan 29 23:24:49 +0000 2017 RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j…, "
+][
+	"Sat Jan 28 01:57:17 +0000 2017 My favorite team is the Philadelphia Phillies, "
+][
+	"Sat Jan 28 01:57:02 +0000 2017 Hope everyone is having a good year so far, "
+][
+	"Sat Jan 28 01:42:31 +0000 2017 Hi everyone, "
+][
+	"Sat Jan 28 01:15:22 +0000 2017 RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9, "
+]{
+	"Artists": "Steve Aoki",
+	"songName": "Just Hold On",
+	"previewLink": "https://p.scdn.co/mp3-preview/8d728867e6951fadd40709dfc34b9050c8e7cef5?cid=null",
+	"Album": "Just Hold On"
+}{
+	"Artists": "Steve Aoki",
+	"songName": "Just Hold On",
+	"previewLink": "https://p.scdn.co/mp3-preview/8d728867e6951fadd40709dfc34b9050c8e7cef5?cid=null",
+	"Album": "Just Hold On"
+}{
+	"Artists": "Steve Aoki",
+	"songName": "Just Hold On",
+	"previewLink": "https://p.scdn.co/mp3-preview/8d728867e6951fadd40709dfc34b9050c8e7cef5?cid=null",
+	"Album": "Just Hold On"
+}{
+	"Title": "Lion",
+	"Year": "2016",
+	"ImdbRating": "8.0",
+	"Country": "Australia, USA",
+	"Language": "English, Bengali, Hindi",
+	"Plot": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
+	"Actors": "Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki",
+	"rottenTomatoesRating": "N/A",
+	"rottenTomatoesUrl": "N/A"
+}{
+	"Title": "The Shawshank Redemption",
+	"Year": "1994",
+	"ImdbRating": "9.3",
+	"Country": "USA",
+	"Language": "English",
+	"Plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+	"Actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+	"rottenTomatoesRating": "8.2",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/shawshank_redemption/"
+}{
+	"Title": "Titanic",
+	"Year": "1997",
+	"ImdbRating": "7.7",
+	"Country": "USA",
+	"Language": "English",
+	"Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+	"Actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+	"rottenTomatoesRating": "8.0",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/titanic/"
+}{
+	"Artists": "Florence + The Machine",
+	"songName": "Shake It Out",
+	"previewLink": "https://p.scdn.co/mp3-preview/7e3c4f3be867e97a7607b3a9f157b8cb94956099?cid=null",
+	"Album": "Ceremonials (Deluxe Edition)"
+}{
+	"Artists": "Backstreet Boys",
+	"songName": "I Want It That Way",
+	"previewLink": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null",
+	"Album": "The Hits--Chapter One"
+}{
+	"Artists": "Ty Dolla $ign",
+	"songName": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix",
+	"previewLink": "https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null",
+	"Album": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]"
+}my-tweets,my-tweets,[
+	"Mon Jan 30 00:02:51 +0000 2017 RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio., "
+][
+	"Sun Jan 29 23:58:30 +0000 2017 RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und…, "
+][
+	"Sun Jan 29 23:59:34 +0000 2017 RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a \"cool\" FP culture inste…, "
+][
+	"Sun Jan 29 23:59:00 +0000 2017 RT @ryanflorence: For me, it's about worrying about the right \"lines\" to draw in your app, then fill the few shapes those lines create with…, "
+][
+	"Sun Jan 29 23:58:09 +0000 2017 RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi…, "
+][
+	"Sun Jan 29 23:58:19 +0000 2017 RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o…, "
+][
+	"Sun Jan 29 23:57:16 +0000 2017 RT @tylermcginnis33: Your code is not your identity., "
+][
+	"Sun Jan 29 23:57:13 +0000 2017 RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning., "
+][
+	"Sun Jan 29 23:56:36 +0000 2017 RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. \"🤔 Something is off.\" -&gt; \"…, "
+][
+	"Sun Jan 29 23:55:03 +0000 2017 RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war., "
+][
+	"Sun Jan 29 23:52:38 +0000 2017 RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a…, "
+][
+	"Sun Jan 29 23:50:43 +0000 2017 RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ…, "
+][
+	"Sun Jan 29 23:24:49 +0000 2017 RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j…, "
+][
+	"Sun Jan 29 23:23:52 +0000 2017 RT @toddmotto: \"Real developers\" just write code and enjoy it., "
+][
+	"Sun Jan 29 23:51:47 +0000 2017 RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R, "
+][
+	"Sat Jan 28 01:57:17 +0000 2017 My favorite team is the Philadelphia Phillies, "
+][
+	"Sat Jan 28 01:42:31 +0000 2017 Hi everyone, "
+][
+	"Sat Jan 28 01:57:02 +0000 2017 Hope everyone is having a good year so far, "
+][
+	"Sat Jan 28 01:15:22 +0000 2017 RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9, "
+]{
+	"Artists": "Ace of Base",
+	"songName": "The Sign",
+	"previewLink": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null",
+	"Album": "The Sign (US Album) [Remastered]"
+}{
+	"Title": "Titanic",
+	"Year": "1997",
+	"ImdbRating": "7.7",
+	"Country": "USA",
+	"Language": "English",
+	"Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+	"Actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+	"rottenTomatoesRating": "8.0",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/titanic/"
+}{
+	"Title": "Mr. Nobody",
+	"Year": "2009",
+	"ImdbRating": "7.9",
+	"Country": "Belgium, Germany, Canada, France",
+	"Language": "English, Mohawk",
+	"Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+	"Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham",
+	"rottenTomatoesRating": "6.6",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/mr-nobody/"
+}{
+	"Artists": "Ace of Base",
+	"songName": "The Sign",
+	"previewLink": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null",
+	"Album": "The Sign (US Album) [Remastered]"
+}getmytweets 
+Error: No such command. Try movie-this, myTweets or spotify-this-song
+---------------------------------------------
+mytweets 
+Error: No such command. Try movie-this, myTweets or spotify-this-song
+---------------------------------------------
+mytweets 
+Error: No such command. Try movie-this, myTweets or spotify-this-song
+---------------------------------------------
+myTweets null
+biggiehnj: RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio. Posted on: Mon Jan 30 00:02:51 +0000 2017
+biggiehnj: RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a "cool" FP culture inste… Posted on: Sun Jan 29 23:59:34 +0000 2017
+biggiehnj: RT @ryanflorence: For me, it's about worrying about the right "lines" to draw in your app, then fill the few shapes those lines create with… Posted on: Sun Jan 29 23:59:00 +0000 2017
+biggiehnj: RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und… Posted on: Sun Jan 29 23:58:30 +0000 2017
+biggiehnj: RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o… Posted on: Sun Jan 29 23:58:19 +0000 2017
+biggiehnj: RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi… Posted on: Sun Jan 29 23:58:09 +0000 2017
+biggiehnj: RT @tylermcginnis33: Your code is not your identity. Posted on: Sun Jan 29 23:57:16 +0000 2017
+biggiehnj: RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning. Posted on: Sun Jan 29 23:57:13 +0000 2017
+biggiehnj: RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. "🤔 Something is off." -&gt; "… Posted on: Sun Jan 29 23:56:36 +0000 2017
+biggiehnj: RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war. Posted on: Sun Jan 29 23:55:03 +0000 2017
+biggiehnj: RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a… Posted on: Sun Jan 29 23:52:38 +0000 2017
+biggiehnj: RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R Posted on: Sun Jan 29 23:51:47 +0000 2017
+biggiehnj: RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ… Posted on: Sun Jan 29 23:50:43 +0000 2017
+biggiehnj: RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j… Posted on: Sun Jan 29 23:24:49 +0000 2017
+biggiehnj: RT @toddmotto: "Real developers" just write code and enjoy it. Posted on: Sun Jan 29 23:23:52 +0000 2017
+biggiehnj: My favorite team is the Philadelphia Phillies Posted on: Sat Jan 28 01:57:17 +0000 2017
+biggiehnj: Hope everyone is having a good year so far Posted on: Sat Jan 28 01:57:02 +0000 2017
+biggiehnj: Hi everyone Posted on: Sat Jan 28 01:42:31 +0000 2017
+biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9 Posted on: Sat Jan 28 01:15:22 +0000 2017
+---------------------------------------------
+spotify-this-song 
+Song Name: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Artists: The Karaoke Channel
+Album: The Karaoke Channel - Sing the Sign Like Ace of Base
+Preview link: https://p.scdn.co/mp3-preview/f4b3590097ad447c3c6e2114e36ab73aef6af0b8?cid=null
+---------------------------------------------
+spotify-this-song 
+Song Name: The Sign
+Artists: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+---------------------------------------------
+do-what-it-says 
+spotify-this-song "I Want it That Way"
+
+Song Name: I Want It That Way
+Artists: Backstreet Boys
+Album: The Hits--Chapter One
+Preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+---------------------------------------------
+movie-this the lion king
+Title of the movie: The Lion King
+Release Year : 1994
+IMDB Rating : 8.5
+Country of production:USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.
+Actors: Matthew Broderick, Jonathan Taylor Thomas, James Earl Jones, Jim Cummings
+Rotten Tomatoes Rating: 8.3
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_lion_king/
+---------------------------------------------
+spotify-this-song on fire
+Song Name: Love On Top
+Artists: Beyoncé
+Album: 4
+Preview link: https://p.scdn.co/mp3-preview/9a7675cc7f71c524af1397cf1675b61a8fbc74ed?cid=null
+---------------------------------------------
+spotify-this-song turn down for what
+Song Name: Turn Down for What
+Artists: DJ Snake
+Album: Turn Down for What
+Preview link: https://p.scdn.co/mp3-preview/fde5f6c570eb2ecaca797c0984a247a47d3fdc21?cid=null
+---------------------------------------------
+myTweets null
+biggiehnj: RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio. Posted on: Mon Jan 30 00:02:51 +0000 2017
+biggiehnj: RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a "cool" FP culture inste… Posted on: Sun Jan 29 23:59:34 +0000 2017
+biggiehnj: RT @ryanflorence: For me, it's about worrying about the right "lines" to draw in your app, then fill the few shapes those lines create with… Posted on: Sun Jan 29 23:59:00 +0000 2017
+biggiehnj: RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und… Posted on: Sun Jan 29 23:58:30 +0000 2017
+biggiehnj: RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o… Posted on: Sun Jan 29 23:58:19 +0000 2017
+biggiehnj: RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi… Posted on: Sun Jan 29 23:58:09 +0000 2017
+biggiehnj: RT @tylermcginnis33: Your code is not your identity. Posted on: Sun Jan 29 23:57:16 +0000 2017
+biggiehnj: RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning. Posted on: Sun Jan 29 23:57:13 +0000 2017
+biggiehnj: RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. "🤔 Something is off." -&gt; "… Posted on: Sun Jan 29 23:56:36 +0000 2017
+biggiehnj: RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war. Posted on: Sun Jan 29 23:55:03 +0000 2017
+biggiehnj: RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a… Posted on: Sun Jan 29 23:52:38 +0000 2017
+biggiehnj: RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R Posted on: Sun Jan 29 23:51:47 +0000 2017
+biggiehnj: RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ… Posted on: Sun Jan 29 23:50:43 +0000 2017
+biggiehnj: RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j… Posted on: Sun Jan 29 23:24:49 +0000 2017
+biggiehnj: RT @toddmotto: "Real developers" just write code and enjoy it. Posted on: Sun Jan 29 23:23:52 +0000 2017
+biggiehnj: My favorite team is the Philadelphia Phillies Posted on: Sat Jan 28 01:57:17 +0000 2017
+biggiehnj: Hope everyone is having a good year so far Posted on: Sat Jan 28 01:57:02 +0000 2017
+biggiehnj: Hi everyone Posted on: Sat Jan 28 01:42:31 +0000 2017
+biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9 Posted on: Sat Jan 28 01:15:22 +0000 2017
+---------------------------------------------
+myTweets null
+biggiehnj: RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio. Posted on: Mon Jan 30 00:02:51 +0000 2017
+biggiehnj: RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a "cool" FP culture inste… Posted on: Sun Jan 29 23:59:34 +0000 2017
+biggiehnj: RT @ryanflorence: For me, it's about worrying about the right "lines" to draw in your app, then fill the few shapes those lines create with… Posted on: Sun Jan 29 23:59:00 +0000 2017
+biggiehnj: RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und… Posted on: Sun Jan 29 23:58:30 +0000 2017
+biggiehnj: RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o… Posted on: Sun Jan 29 23:58:19 +0000 2017
+biggiehnj: RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi… Posted on: Sun Jan 29 23:58:09 +0000 2017
+biggiehnj: RT @tylermcginnis33: Your code is not your identity. Posted on: Sun Jan 29 23:57:16 +0000 2017
+biggiehnj: RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning. Posted on: Sun Jan 29 23:57:13 +0000 2017
+biggiehnj: RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. "🤔 Something is off." -&gt; "… Posted on: Sun Jan 29 23:56:36 +0000 2017
+biggiehnj: RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war. Posted on: Sun Jan 29 23:55:03 +0000 2017
+biggiehnj: RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a… Posted on: Sun Jan 29 23:52:38 +0000 2017
+biggiehnj: RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R Posted on: Sun Jan 29 23:51:47 +0000 2017
+biggiehnj: RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ… Posted on: Sun Jan 29 23:50:43 +0000 2017
+biggiehnj: RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j… Posted on: Sun Jan 29 23:24:49 +0000 2017
+biggiehnj: RT @toddmotto: "Real developers" just write code and enjoy it. Posted on: Sun Jan 29 23:23:52 +0000 2017
+biggiehnj: My favorite team is the Philadelphia Phillies Posted on: Sat Jan 28 01:57:17 +0000 2017
+biggiehnj: Hope everyone is having a good year so far Posted on: Sat Jan 28 01:57:02 +0000 2017
+biggiehnj: Hi everyone Posted on: Sat Jan 28 01:42:31 +0000 2017
+biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9 Posted on: Sat Jan 28 01:15:22 +0000 2017
+---------------------------------------------
+spotify-this-song shape of you
+Song Name: Shape of You
+Artists: Ed Sheeran
+Album: Shape of You
+Preview link: https://p.scdn.co/mp3-preview/84462d8e1e4d0f9e5ccd06f0da390f65843774a2?cid=null
+---------------------------------------------
+myTweets null
+biggiehnj: RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio. Tweeted on: Mon Jan 30 00:02:51 +0000 2017
+biggiehnj: RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a "cool" FP culture inste… Tweeted on: Sun Jan 29 23:59:34 +0000 2017
+biggiehnj: RT @ryanflorence: For me, it's about worrying about the right "lines" to draw in your app, then fill the few shapes those lines create with… Tweeted on: Sun Jan 29 23:59:00 +0000 2017
+biggiehnj: RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und… Tweeted on: Sun Jan 29 23:58:30 +0000 2017
+biggiehnj: RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o… Tweeted on: Sun Jan 29 23:58:19 +0000 2017
+biggiehnj: RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi… Tweeted on: Sun Jan 29 23:58:09 +0000 2017
+biggiehnj: RT @tylermcginnis33: Your code is not your identity. Tweeted on: Sun Jan 29 23:57:16 +0000 2017
+biggiehnj: RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning. Tweeted on: Sun Jan 29 23:57:13 +0000 2017
+biggiehnj: RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. "🤔 Something is off." -&gt; "… Tweeted on: Sun Jan 29 23:56:36 +0000 2017
+biggiehnj: RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war. Tweeted on: Sun Jan 29 23:55:03 +0000 2017
+biggiehnj: RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a… Tweeted on: Sun Jan 29 23:52:38 +0000 2017
+biggiehnj: RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R Tweeted on: Sun Jan 29 23:51:47 +0000 2017
+biggiehnj: RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ… Tweeted on: Sun Jan 29 23:50:43 +0000 2017
+biggiehnj: RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j… Tweeted on: Sun Jan 29 23:24:49 +0000 2017
+biggiehnj: RT @toddmotto: "Real developers" just write code and enjoy it. Tweeted on: Sun Jan 29 23:23:52 +0000 2017
+biggiehnj: My favorite team is the Philadelphia Phillies Tweeted on: Sat Jan 28 01:57:17 +0000 2017
+biggiehnj: Hope everyone is having a good year so far Tweeted on: Sat Jan 28 01:57:02 +0000 2017
+biggiehnj: Hi everyone Tweeted on: Sat Jan 28 01:42:31 +0000 2017
+biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9 Tweeted on: Sat Jan 28 01:15:22 +0000 2017
+---------------------------------------------
+myTweets null
+biggiehnj: RT @jlongster: Microsoft is seriously implementing backwards stepping in JS, making debuggers useful again: https://t.co/jJNWqVXp7i Tweeted on: Wed Feb 01 02:57:25 +0000 2017
+biggiehnj: RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio. Tweeted on: Mon Jan 30 00:02:51 +0000 2017
+biggiehnj: RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a "cool" FP culture inste… Tweeted on: Sun Jan 29 23:59:34 +0000 2017
+biggiehnj: RT @ryanflorence: For me, it's about worrying about the right "lines" to draw in your app, then fill the few shapes those lines create with… Tweeted on: Sun Jan 29 23:59:00 +0000 2017
+biggiehnj: RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und… Tweeted on: Sun Jan 29 23:58:30 +0000 2017
+biggiehnj: RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o… Tweeted on: Sun Jan 29 23:58:19 +0000 2017
+biggiehnj: RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi… Tweeted on: Sun Jan 29 23:58:09 +0000 2017
+biggiehnj: RT @tylermcginnis33: Your code is not your identity. Tweeted on: Sun Jan 29 23:57:16 +0000 2017
+biggiehnj: RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning. Tweeted on: Sun Jan 29 23:57:13 +0000 2017
+biggiehnj: RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. "🤔 Something is off." -&gt; "… Tweeted on: Sun Jan 29 23:56:36 +0000 2017
+biggiehnj: RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war. Tweeted on: Sun Jan 29 23:55:03 +0000 2017
+biggiehnj: RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a… Tweeted on: Sun Jan 29 23:52:38 +0000 2017
+biggiehnj: RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R Tweeted on: Sun Jan 29 23:51:47 +0000 2017
+biggiehnj: RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ… Tweeted on: Sun Jan 29 23:50:43 +0000 2017
+biggiehnj: RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j… Tweeted on: Sun Jan 29 23:24:49 +0000 2017
+biggiehnj: RT @toddmotto: "Real developers" just write code and enjoy it. Tweeted on: Sun Jan 29 23:23:52 +0000 2017
+biggiehnj: My favorite team is the Philadelphia Phillies Tweeted on: Sat Jan 28 01:57:17 +0000 2017
+biggiehnj: Hope everyone is having a good year so far Tweeted on: Sat Jan 28 01:57:02 +0000 2017
+biggiehnj: Hi everyone Tweeted on: Sat Jan 28 01:42:31 +0000 2017
+---------------------------------------------
+myTweets null
+biggiehnj: RT @jlongster: Microsoft is seriously implementing backwards stepping in JS, making debuggers useful again: https://t.co/jJNWqVXp7i Tweeted on: Wed Feb 01 02:57:25 +0000 2017
+biggiehnj: RT @sebmck: The only reason I create JavaScript tools is so I can add them to my Twitter bio. Tweeted on: Mon Jan 30 00:02:51 +0000 2017
+biggiehnj: RT @ryanflorence: People would rather use a name that doesn't make sense and confuses everybody because it's from a "cool" FP culture inste… Tweeted on: Sun Jan 29 23:59:34 +0000 2017
+biggiehnj: RT @ryanflorence: For me, it's about worrying about the right "lines" to draw in your app, then fill the few shapes those lines create with… Tweeted on: Sun Jan 29 23:59:00 +0000 2017
+biggiehnj: RT @tylermcginnis33: Why is “don’t touch a framework until you’ve mastered the language” so canon? A good framework helps you learn the und… Tweeted on: Sun Jan 29 23:58:30 +0000 2017
+biggiehnj: RT @tylermcginnis33: When starting the goal is ~“I want to show my Mom this app”. You get there faster by learning to use the abstraction o… Tweeted on: Sun Jan 29 23:58:19 +0000 2017
+biggiehnj: RT @tylermcginnis33: CS programs would have better results and retention if they started with practice then moved to theory, not the opposi… Tweeted on: Sun Jan 29 23:58:09 +0000 2017
+biggiehnj: RT @tylermcginnis33: Your code is not your identity. Tweeted on: Sun Jan 29 23:57:16 +0000 2017
+biggiehnj: RT @tylermcginnis33: The illusion of learning is the biggest enemy to learning. Tweeted on: Sun Jan 29 23:57:13 +0000 2017
+biggiehnj: RT @tylermcginnis33: Stumbling upon the right abstraction feels similar to stumbling upon the right (UI) design. "🤔 Something is off." -&gt; "… Tweeted on: Sun Jan 29 23:56:36 +0000 2017
+biggiehnj: RT @jlongster: Reconsidering my stance on a semicolon option in prettier. If added code is small, could end the semicolon war. Tweeted on: Sun Jan 29 23:55:03 +0000 2017
+biggiehnj: RT @javivelasco: React Toolbox 2 will be shipped with styled components 💅, but you can write your style implementation. Sneak peek of the a… Tweeted on: Sun Jan 29 23:52:38 +0000 2017
+biggiehnj: RT @dan_abramov: Best kept React secret: you can declare state changes separately from the component classes. https://t.co/LczYP7yw2R Tweeted on: Sun Jan 29 23:51:47 +0000 2017
+biggiehnj: RT @sarah_edo: Animation is just the coolest. Look what can be achieved with a handful of lines moving a bit over time. https://t.co/6mjlDQ… Tweeted on: Sun Jan 29 23:50:43 +0000 2017
+biggiehnj: RT @davidbrunelle: A1: Junior developers add tremendous value to teams! Senior developers increase their skills by teaching and mentoring j… Tweeted on: Sun Jan 29 23:24:49 +0000 2017
+biggiehnj: RT @toddmotto: "Real developers" just write code and enjoy it. Tweeted on: Sun Jan 29 23:23:52 +0000 2017
+biggiehnj: My favorite team is the Philadelphia Phillies Tweeted on: Sat Jan 28 01:57:17 +0000 2017
+biggiehnj: Hope everyone is having a good year so far Tweeted on: Sat Jan 28 01:57:02 +0000 2017
+biggiehnj: Hi everyone Tweeted on: Sat Jan 28 01:42:31 +0000 2017
+biggiehnj: RT @HPbasketball: His dunks are so righteous. https://t.co/Yw2vr9KDb9 Tweeted on: Sat Jan 28 01:15:22 +0000 2017
+---------------------------------------------
+spotify-this-song run this town
+Song Name: Run This Town
+Artists: JAY Z
+Album: The Hits Collection Volume One (Deluxe)
+Preview link: https://p.scdn.co/mp3-preview/a60542cd96af458030efaa9b3af30660ca24ac28?cid=null
+---------------------------------------------
+movie-this split
+Title of the movie: Split
+Release Year : 2016
+IMDB Rating : 7.6
+Country of production:USA
+Language: English
+Plot: After three girls are kidnapped by a man with 24 distinct personalities they must find some of the different personalities that can help them while running away and staying alive from the others.
+Actors: Anya Taylor-Joy, James McAvoy, Haley Lu Richardson, Kim Director
+Rotten Tomatoes Rating: 7.1
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/split_2017/
+---------------------------------------------
+do-what-it-says 
+spotify-this-song "I Want it That Way"
+
+Song Name: I Want It That Way
+Artists: Backstreet Boys
+Album: The Hits--Chapter One
+Preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+---------------------------------------------

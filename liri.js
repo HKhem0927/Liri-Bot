@@ -1,120 +1,155 @@
+
 var fs = require('fs');
-var Twitter = require('twitter');
-var keys = require('./keys.js')
-var spotify = require('spotify');
 var request = require('request');
+var spotify = require('spotify');
+var Twitter = require('twitter');
+var readline = require('readline');
+var twitterKeys = require('./keys.js').twitterKeys;
 
+function showTweets(){
+
+  var screenName ='biggiehnj';
+  
+  var client = new Twitter({
+    consumer_key: twitterKeys.consumer_key,
+    consumer_secret: twitterKeys.consumer_secret,
+    access_token_key: twitterKeys.access_token_key,
+    access_token_secret: twitterKeys.access_token_secret 
+  });
+   
+  var params = {screen_name:'biggiehnj', count:21};
+
+  client.get('statuses/user_timeline', params, function(error, tweets, response) {
+
+    var output = '';
+    if (error) return console.log(error);
+  
+      tweets.forEach(function(tweet){
+        output += screenName+': ' + tweet.text+" Tweeted on: "+tweet.created_at+'\n';
+      });
+
+      log('myTweets',null,output);
+    
+  });
+
+  
+}
+
+function showSongInfo(songName){
+  var song;
+  (songName) ? song = songName : song = 'The Sign, Ace of Base';
+  var queryString = song + '&limit=1&offset=0';
+
+  spotify.search({ type: 'track', query: queryString }, function(err, data) {
+      var output = '';
+      if ( err ) {
+          return console.log('Uh oh: ' + err);
+       }
+
+    output += 'Song Name: '+data.tracks.items[0].name+'\n';
+    output += 'Artists: '+data.tracks.items[0].artists[0].name+'\n';
+    output += 'Album: '+data.tracks.items[0].album.name+'\n';
+    output += 'Preview link: '+data.tracks.items[0].preview_url+'\n';
+    
+    log('spotify-this-song',songName,output);
+  });
+}
  
-var action = process.argv[2];
-var value = process.argv[3];
-var logData = "";
+
+function showMovieInfo(movieName){
+
+  var movie;
+  (movieName)? movie = movieName : movie= 'Mr. Nobody.';
+
+  request('http://www.omdbapi.com/?t='+movie+'&y=&plot=short&tomatoes=true&r=json','utf8',function(err,response,body){
+    var output = '';
+
+    if(err) {
+      return console.log('Cannot find from omdb ' +err);
+    }
+      body = JSON.parse(body);
+
+      output += 'Title of the movie: '+body.Title+'\n';
+    output += 'Release Year : '+body.Year+'\n';
+    output += 'IMDB Rating : '+body.imdbRating+'\n';
+    output += 'Country of production:'+body.Country+'\n';
+    output += 'Language: '+body.Language+'\n';
+    output += 'Plot: '+body.Plot+'\n';
+    output += 'Actors: '+body.Actors+'\n';
+    output += 'Rotten Tomatoes Rating: '+body.tomatoRating+'\n';
+    output += 'Rotten Tomatoes URL: '+body.tomatoURL+'\n';
+
+    log('movie-this',movieName,output);
+  });
+
+}
 
 
-function processArgs() {
-switch(action){
-    case 'my-tweets':
-        getTweets();
+function randomCommand(){
+
+  fs.readFile('./random.txt','utf8', function(err, data){
+    if (err) throw err;
+
+    var tempArgArray = data.split(',');
+    var command = tempArgArray[0];
+    var arg = tempArgArray[1];
+      liri(command, arg);
+  });
+
+  log('do-what-it-says','','');
+
+}
+
+function log(command,arg,output){
+  var str = '';
+  
+  if(output){ 
+    console.log(output);
+    }
+  str += command+' '+arg+'\n';
+  str += output;
+
+  if(output){
+    str += '---------------------------------------------'+'\n';
+  }
+  
+  fs.appendFile('./log.txt',str, function(err,data){
+    if(err) return console.log(err);
+    });
+}
+
+
+function liri(command,arg){
+
+    switch(command){
+
+    case 'myTweets':
+        showTweets();
         break;
+
     case 'spotify-this-song':
-        searchSpotify();
+        showSongInfo(arg); 
         break;
+
     case 'movie-this':
-        searchMovie();
+        showMovieInfo(arg);
         break;
+
     case 'do-what-it-says':
-        readFileExecute();
+        randomCommand();
         break;
+    case  undefined:
+
+       var output = 'Not sure what you mean.  Please try movie-this, myTweets or spotify-this-song'+'\n';
+       log(command,arg,output);
+       break;
+
+    default :
+       var output = 'Not sure what you mean. Please try movie-this, myTweets or spotify-this-song'+'\n';
+       log(command,arg,output);
+       break; 
   }
 }
 
-processArgs();
 
-function getTweets() { 
-
-var twitter = new Twitter(keys.twitterKeys);
-twitter.get('statuses/user_timeline', {screen_name: 'biggiehnj', count: 20}, function(err, tweets, response){
-  if (!err && response.statusCode == 200) {
-    console.log("------------------------------------------");
-    console.log(" " + " " + "These are my last 20 tweets" + " " + " ")
-    console.log("------------------------------------------");
-    for (var i = 0; i < tweets.length; i++) {
-      console.log(tweets[i].created_at + " " + tweets[i].text)
-      logData = [tweets[i].created_at + " " + tweets[i].text + "," + " "];
-    writeLog();
-    }
-  }
-});
-}
-
-function searchSpotify() {
-var value = process.argv[3] || "i want it that way";
-spotify.search({ type: 'track', query: value }, function(err, data) {
-    if (!err) {
-      console.log("------------------------------------------");
-      console.log(" " + " " + "These are the results from Spotify" + " " + " ")
-      console.log("------------------------------------------");
-      console.log('Artist(s): ' + data.tracks.items[0].artists[0].name)
-        console.log('Song Name: ' + data.tracks.items[0].name);
-        console.log('Preview Link: ' + data.tracks.items[0].preview_url);
-        console.log('Album: ' + data.tracks.items[0].album.name);
-        logData = {Artists: data.tracks.items[0].artists[0].name, songName: data.tracks.items[0].name, previewLink: data.tracks.items[0].preview_url, Album: data.tracks.items[0].album.name};
-    writeLog();
-    }
- });
-}
-
-
-function searchMovie() {
-  var value = process.argv[3] || "Mr. Nobody";
-  var options =  { 
-    url: 'http://www.omdbapi.com/',
-    qs: {
-      t: value,
-      plot: 'short',
-      r: 'json',
-      tomatoes: true
-    }
-  }
-  request(options, function(err, response, body) {
-  if (!err && response.statusCode == 200) {
-    body = JSON.parse(body);
-    console.log("------------------------------------------");
-      console.log(" " + " " + "The are the OMDB Results" + " " + " ")
-      console.log("------------------------------------------");
-    console.log("Title: " + body.Title);
-    console.log("Year: " + body.Year);
-    console.log("IMDB Rating: " + body.imdbRating);
-    console.log("Country: " + body.Country);
-    console.log("Language: " + body.Language);
-    console.log("Plot: " + body.Plot);
-    console.log("Actors :" + body.Actors);
-    console.log("Rotten Tomatoes Rating: " + body.tomatoRating);
-    console.log("Rotten Tomatoes URL: " + body.tomatoURL);
-    logData = {Title: body.Title, Year: body.Year, ImdbRating: body.imdbRating, Country: body.Country, Language: body.Language, Plot: body.Plot, Actors: body.Actors, rottenTomatoesRating: body.tomatoRating, rottenTomatoesUrl: body.tomatoURL};
-    writeLog();
-
-}
-})
-}
-
-
-function readFileExecute() {
-  fs.readFile("random.txt", "utf8", function(error, data) {
-    if (!error) {
-      var textArgs = data.split(',');
-          action = textArgs[0];
-    value = textArgs[1];
-    processArgs();
-    }
-
-  })
-};
-
-function writeLog() {
-  fs.appendFile('log.txt', JSON.stringify(logData, null, "\t"), (err) => {
-    if ( err ) {
-        console.log('Error occurred: ' + err);
-        return;
-    }
-})
-}
+liri(process.argv[2], process.argv.slice(3,process.argv.length).join(' '));
